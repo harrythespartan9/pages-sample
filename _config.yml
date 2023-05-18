@@ -28,7 +28,7 @@ twitter_username: HarikrishnaH5
 github_username:  harrythespartan9
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
